@@ -1,0 +1,87 @@
+variable,new,set.CP.significant.residuals,TransPacific,set.Other.significant.residuals,Other
+autotyp.agreement$POLYAGR.STRICT,POLYAGR.STRICT,-without;+POLYAGR,-absent;+present,+without;-POLYAGR,+absent;-present
+autotyp.alienability$INAL.CLASS,INAL.CLASS,,,+absent,+absent
+autotyp.alienability$No.ALIEN.CLASS.BINNED,Nr.ALIEN.CLASS.BINNED,,,+none,+none
+autotyp.alienability$No.INAL.CLASS,Nr.INALIEN.CLASS,,,,
+autotyp.alienability$No.INAL.CLASS.BINNED,Nr.INAL.CLASS.BINNED,,,+none,+none
+autotyp.alienability$POSS.CLASS,Nr.POSS.CLASS,,,-1,-1
+autotyp.alienability$POSS.CLASS.AGGR,POSS.CLASS.AGGR,,,-poss_classes;+no_poss_classes,-present;+absent
+autotyp.alienability$posscl_all,POSS.CLASS.ALL,,,,
+autotyp.alignment.per.language$case.wals.alignmentN,CASE.ALIGN.WALS.STYLE.N,,,,
+autotyp.alignment.per.language$case.wals.alignmentP,CASE.ALIGN.WALS.STYLE.PRO,,,,
+autotyp.basic.mr.locus.per.language$BasicLocus.P,LOCUS.P.BROAD,,,-H,-H
+autotyp.basic.mr.locus.per.language$BasicLocus.POSS,LOCUS.POSS.BROAD,+H,+H,-H,-H
+autotyp.basic.mr.locus.per.language$SimpleLocus.A,SIMPLE.LOCUS.A.BROAD,,,,
+autotyp.basic.mr.locus.per.language$SimpleLocus.P,SIMPLE.LOCUS.P.BROAD,,,-H,-H
+autotyp.basic.mr.locus.per.language$SimpleLocus.POSS,SIMPLE.LOCUS.S.BROAD,,,+D;-H,+D;-H
+autotyp.basic.sr.locus.per.language$BasicLocus.U,LOCUS.P.NARROW,,,,
+autotyp.basic.sr.locus.per.language$SimpleLocus.A,SIMPLE.LOCUS.A.NARROW,,,,
+autotyp.basic.sr.locus.per.language$SimpleLocus.U,SIMPLE.LOCUS.P.NARROW,,,-H,-H
+autotyp.locus.per.language$LocAorPhm,LocAorPhm,,,+no hm,+absent
+autotyp.locus.per.language$LocPhm,LocPhm,,,+no hm;-hm,+absent;-present
+autotyp.locus.per.language$LocPOSSdm,LocPOSSdm,,,+dm;-no dm,+present;-absent
+autotyp.locus.per.language$LocPOSShm,LocPOSShm,-no hm;+hm,-absent;+present,+no hm;-hm,+absent;-present
+autotyp.locus.per.language$LOCUS.ARG,LOCUS.ARG,,,+no hm,+absent
+autotyp.markers.per.language$A.basic,LOCUS.A.AGGR,,,,
+autotyp.markers.per.language$POSS.basic,LOCUS.POSS.AGGR,,,-H,-H
+autotyp.merge$AOorder_merged,A.P.ORDER.AGGR,,,-mixed,-mixed
+autotyp.merge$CASE.ALIGN.N,CASE.ALIGN.PER.LANG.N,,,,
+autotyp.merge$CASE.ALIGN.P,CASE.ALIGN.PER.LANG.P,,,+acc,+acc
+autotyp.merge$s_align_p_merged,S.ALIGN.PRO.AGGR,,,,
+autotyp.morphology.per.language$ANY.AGREEMENT,ANY.V.AGR,,,+no verb agreement,+absent
+autotyp.morphology.per.language$N.PLURAL,N.PLURAL,,,-lacks plural,-absent
+autotyp.morphology.per.language$POSS.CLASS,POSS.CLASS.PER.LANG,,,-1,-1
+autotyp.morphology.per.language$POSS.CLASS.AGGR,POSS.CLASS.AGGR.PER.LANG,,,+no_poss_classes;-poss_classes,+absent;-present
+autotyp.morphology.per.language$posscl_all,POSS.CLASS.ALL.PER.LANG,,,+no_poss_class;-any_poss_class,+absent;-present
+autotyp.np_structure$Alien_classMacrocat_sem_class,AL.CLASS.SEM.TYPE,,,-formal;+neutral,-formal;+neutral
+autotyp.number$Dual,DUAL,,,,
+autotyp.synthesis$ANY.AGREEMENT,ANY.AGREEMENT,,,+no verb agreement,+absent
+autotyp.wals$ANDANG,ANDANG,,,-No velar nasal,-ŋ
+autotyp.wals$ANDANG2,ANDANG2,-ŋ present;+ŋ absent,-ŋ;+no ŋ,+ŋ present;-ŋ absent,+ŋ;-no ŋ
+autotyp.wals$AUWHOR,AUWHOR,,,,
+autotyp.wals$BAKADP,BAKADP,+No adpositions,+no adp,-No adpositions,-no adp
+autotyp.wals$BAKADP02,BAKADP02,,,,
+autotyp.wals$BAKADP2,BAKADP2,+no adpositions,+no adp,-no adpositions,-no adp
+autotyp.wals$BROFIN,BROFIN,,,-Identity: a single word denotes both 'hand' and 'finger' and/or 'fingers',-hand=finger
+autotyp.wals$CORASS,CORASS,,,+Semantic and formal assignment,+sem and formal
+autotyp.wals$DRYADP0,DRYADP0,,,,
+autotyp.wals$DRYCOQ,DRYCOQ,,,,
+autotyp.wals$DRYCOQ0,DRYCOQ0,,,-question particle obligatorily initial,-Q oblig initial
+autotyp.wals$DRYDEM,DRYDEM,+Demonstrative word precedes noun (DemN),+Dem.wordN,-Demonstrative word precedes noun (DemN);+Demonstrative word follows noun (NDem),-Dem.wordN;+NDem.word
+autotyp.wals$DRYDEM0,DRYDEM0,+DemN (word or prefix);-NDem (word or prefix),+DemN;-NDem,-DemN (word or prefix);+NDem (word or prefix),-DemN;+NDem
+autotyp.wals$DRYGEN,DRYGEN,-Noun-genitive (NGen),-NGen,+Noun-genitive (NGen),+NGen
+autotyp.wals$DRYGEN0,DRYGEN0,-Nnp,-Nnp,-npN;+Nnp,-npN;+Nnp
+autotyp.wals$DRYOBV,DRYOBV,,,+Object follows verb (VO),+VO
+autotyp.wals$DRYPOS,DRYPOS,,,-Possessive prefixes;+Possessive suffixes,-poss pf;+poss sf
+autotyp.wals$DRYPOS0,DRYPOS0,+possessive prefixes;-possessive suffixes,+poss pf;-poss sf,-possessive prefixes;+possessive suffixes;-both possessive prefixes and suffixes,-poss pf;+poss sf;-both
+autotyp.wals$DRYPRO2,DRYPRO2,,,+oblig. S-pron.,+oblig.Spro
+autotyp.wals$DRYPRO3,DRYPRO3,,,+OBLIGATORY,+oblig.Spro (bin)
+autotyp.wals$DRYSOV1,DRYSOV1,,,,
+autotyp.wals$DRYSOV2,DRYSOV2,,,-mixed;+medial,-mixed;+medial
+autotyp.wals$DRYSOV3,DRYSOV3,-other,-other,-final_or_free;+other,-final/free;+other
+autotyp.wals$DRYSOV4,DRYSOV4,,,+non_final,+non-final
+autotyp.wals$DRYXOV,DRYXOV,,,+Verb-object-oblique (VOX),+VOX
+autotyp.wals$HAAEVD,HAAEVD,,,,
+autotyp.wals$HAAEVD2,HAAEVD2,,,-some evidentials,-some evid
+autotyp.wals$HASDIT0,HASDIT0,+secondary object,+SO,-secondary object,-SO
+autotyp.wals$HASNPL,HASNPL,,,"+Plural in all nouns, always obligatory",+pl oblig
+autotyp.wals$HASNPL0,HASNPL0,,,"+Plural in all nouns, always obligatory",+pl oblig
+autotyp.wals$HASNPL22,HASNPL22,"-plural obligatory, at least in animates;+plural absent or optional",-pl anim;+no/opt pl,"+plural obligatory, at least in animates;-plural absent or optional",+pl anim;-no/opt pl
+autotyp.wals$HASWAN,HASWAN,,,,
+autotyp.wals$HASWAN02,HASWAN02,,,-desiderative strategy,-desid strategy
+autotyp.wals$HASWAN03,HASWAN03,+some desiderative,+some desid,-some desiderative,-some desid
+autotyp.wals$MADGLO,MADGLO,,,+Implosives only,+impl only
+autotyp.wals$MADLAT,MADLAT,"-/l/, no obstruent laterals;+1.No laterals",-/l/no obstr;+no lat,"+/l/, no obstruent laterals;-1.No laterals",+/l/no obstr;-no lat
+autotyp.wals$MADLAT2,MADLAT2,+no laterals,+no lat,-no laterals,-no lat
+autotyp.wals$MADPRS,MADPRS,,,+Labial-velars,+lab.velar
+autotyp.wals$MADTON,MADTON,,,,
+autotyp.wals$MADTON02,MADTON02,+atonal;-tonal,+atonal;-tonal,-atonal;+tonal,-atonal;+tonal
+autotyp.wals$MADVOI,MADVOI,-Voicing contrast in both plosives and fricatives;+No voicing contrast,-voi in plos/fric;+no voi,+Voicing contrast in both plosives and fricatives;-No voicing contrast,+voi in plos/fric;-no voi
+autotyp.wals$MADVOI2,MADVOI2,-voicing;+no voicing,-voicing;+no voicing,+voicing;-no voicing,+voicing;-no voicing
+autotyp.wals$MADVOW,MADVOW,,,+3,+3
+autotyp.wals$MADVOWC,MADVOWC,,,+(7-14),+(7-14)
+autotyp.wals$PP,PP,,,+Pnp,+Pnp
+autotyp.wals$SIEGEN,SIEGEN,,,,
+autotyp.wals$SIEPAS,SIEPAS,,,-There is no passive construction;+There is a passive construction,-no pass;+pass
+autotyp.wals$SONNON,SONNON,,,,
+autotyp.wals$VP,VP,,,-OV;+VO,-OV;+VO

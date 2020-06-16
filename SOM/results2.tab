@@ -1,0 +1,181 @@
+"variable"	"raw.sample.size"	"n.languages"	"n.levels"	"source"	"set.fisher.p"	"set.CP.significant.residuals"	"set.Other.significant.residuals"	"mcmc.fisher.p"	"mcmc.CP.significant.residuals"	"mcmc.Other.significant.residuals"	"ml.fisher.p"	"ml.CP.significant.residuals"	"ml.Other.significant.residuals"	"problems"
+"autotyp.np_structure$Construct_Def"	422	335	5	"AUTOTYP"	0.86968403598799	""	""	0.88782225232083	""	""	0.960515098487919	""	""	NA
+"autotyp.np_structure$marking_Def"	395	339	2	"AUTOTYP"	1	""	""	0.706331045003814	""	""	1	""	""	NA
+"autotyp.np_structure$Govern_Def"	516	350	4	"AUTOTYP"	0.811936137194566	""	""	0.657327461877197	""	""	0.311455108359127	""	"+mixed"	NA
+"autotyp.np_structure$WordOrderType"	386	315	5	"AUTOTYP"	0.720474689766141	""	""	0.978044945081707	""	""	0.943989245880229	""	""	NA
+"autotyp.np_structure$extension"	646	484	7	"AUTOTYP"	0.133444008180674	""	""	NA	NA	NA	NA	NA	NA	"Oceanic sbranch:Unable to parse BayesTraits results; West Caucasian stock:Unable to parse BayesTraits results"
+"autotyp.np_structure$semantic_restriction"	338	260	2	"AUTOTYP"	0.51602930630836	""	""	0.51602930630836	""	""	0.51602930630836	""	""	NA
+"autotyp.number$Dual"	476	476	4	"AUTOTYP"	0.0511911809585639	""	""	0.000180540094896554	""	"+dual +dual attested (agreement)"	0.000180540094896554	""	"+dual +dual attested (agreement)"	NA
+"autotyp.synthesis$INCORP.N"	314	314	2	"AUTOTYP"	0.0798537292523715	""	"-TRUE"	0.0798537292523715	""	"-TRUE"	0.0671585594814063	""	"-TRUE"	NA
+"autotyp.synthesis$infl.exponence.type"	255	255	3	"AUTOTYP"	0.999999999999998	""	""	0.999999999999998	""	""	0.999999999999998	""	""	NA
+"autotyp.synthesis$ANY.AGREEMENT"	281	281	2	"AUTOTYP"	0.0204375409028302	""	"+no verb agreement"	0.0296604658505487	""	"+no verb agreement"	0.0307906966309686	""	"+no verb agreement"	NA
+"autotyp.synthesis$multiple.agreement"	281	281	2	"AUTOTYP"	0.0626994854567975	""	"+single or no agreement"	0.0626994854567975	""	"+single or no agreement"	0.119377116808904	""	""	NA
+"autotyp.synthesis$fpwCat"	255	255	3	"AUTOTYP"	0.141220689966258	""	""	0.286524830470479	""	""	0.348063541858022	""	""	NA
+"autotyp.synthesis$synCat"	255	255	3	"AUTOTYP"	0.0854227451460763	""	""	0.100589934522755	""	""	0.174465391569092	""	""	NA
+"autotyp.wals$MADCON"	561	561	5	"WALS"	0.249519004819643	""	""	0.915692179673874	""	""	1	""	""	NA
+"autotyp.wals$MADVOW"	562	562	3	"WALS"	0.0227898037397377	""	"+3"	0.0197908112656958	""	"+3"	0.0999060788440257	""	"+3"	NA
+"autotyp.wals$MADCVR"	562	562	5	"WALS"	0.573894816846956	""	""	0.896012243358592	""	""	0.999999999999999	""	""	NA
+"autotyp.wals$MADVOI2"	565	565	2	"WALS"	3.66782393391157e-06	"-voicing+no voicing"	"+voicing-no voicing"	3.66782393391157e-06	"-voicing+no voicing"	"+voicing-no voicing"	5.05503283078261e-05	"-voicing+no voicing"	"+voicing-no voicing"	NA
+"autotyp.wals$MADUVU"	565	565	4	"WALS"	0.752320554397493	""	""	0.647195458620139	""	""	0.807518945437168	""	""	NA
+"autotyp.wals$MADLAT2"	565	565	2	"WALS"	0.000220078552775162	"+no laterals"	"-no laterals"	0.000121706629621384	"+no laterals"	"-no laterals"	0.000206765963346002	"+no laterals"	"-no laterals"	NA
+"autotyp.wals$ANDANG"	467	467	3	"WALS"	0.0127837516905139	""	"-No velar nasal"	0.152520963785994	""	""	0.194283538216971	""	""	NA
+"autotyp.wals$MADFRV"	560	560	4	"WALS"	0.644688587833378	""	""	0.421608855287914	""	""	0.688857906355294	""	""	NA
+"autotyp.wals$MADSYL"	484	484	3	"WALS"	0.498696486845997	""	""	0.588813171502739	""	""	1	""	""	NA
+"autotyp.wals$MADTON"	525	525	3	"WALS"	0.0247808059703282	""	""	0.00636534329536558	"-Complex tone system"	"+Complex tone system"	0.0385711409507586	""	"+Complex tone system"	NA
+"autotyp.wals$GOEFIX"	499	499	7	"WALS"	0.974059082900639	""	""	NA	NA	NA	NA	NA	NA	"Pama-Nyungan stock:Unable to parse BayesTraits results"
+"autotyp.wals$GOERHY"	322	322	5	"WALS"	0.655093733891464	""	""	0.688814797173925	""	""	0.689199689199692	""	""	NA
+"autotyp.wals$MADPRS"	565	565	7	"WALS"	0.000638763537410672	""	"+Labial-velars"	2.15578800603435e-05	""	"+Pharyngeals+Labial-velars+Clicks "	0.0019482098653197	""	"+Clicks "	NA
+"autotyp.wals$DRYPRE"	892	892	6	"WALS"	0.453073100923817	""	""	NA	NA	NA	NA	NA	NA	"Adamawa-Ubangi stock:Unable to parse BayesTraits results; Western WMP pseudo-group ssbranch:Unable to parse BayesTraits results; Eastern Central Sudanic stock:Unable to parse BayesTraits results; Kwa stock:Unable to parse BayesTraits results; Nilotic stock:Unable to parse BayesTraits results; Sino-Tibetan stock:Unable to parse BayesTraits results; Yuman stock:Unable to parse BayesTraits results"
+"autotyp.wals$RUBRED2"	366	366	2	"WALS"	0.206930020630311	""	""	0.206930020630311	""	""	0.291934731073862	""	""	NA
+"autotyp.wals$CORSEX"	256	256	3	"WALS"	0.0820218140492495	""	""	0.137779229368129	""	""	0.366703554387875	""	""	NA
+"autotyp.wals$CORASS"	256	256	3	"WALS"	0.0145047512960011	""	"+Semantic and formal assignment"	0.0167846193999273	""	"+Semantic and formal assignment"	0.0982190905328912	""	"+Semantic and formal assignment"	NA
+"autotyp.wals$HASNPL"	290	290	6	"WALS"	0.0458273024915509	""	"+Plural in all nouns, always obligatory"	NA	NA	NA	NA	NA	NA	"Sino-Tibetan stock:Unable to parse BayesTraits results"
+"autotyp.wals$DANPLU"	259	259	8	"WALS"	0.902050715112099	""	""	0.846842148790974	""	""	0.971414455110106	""	""	NA
+"autotyp.wals$DRYDEF2"	566	566	2	"WALS"	0.404330407061853	""	""	0.354298124716535	""	""	0.329980270793735	""	""	NA
+"autotyp.wals$DRYIND"	473	473	5	"WALS"	0.929857233100505	""	""	1	""	""	0.657142857142858	""	""	NA
+"autotyp.wals$SIEGEN2"	377	377	2	"WALS"	0.2517221489755	""	""	0.2517221489755	""	""	0.770635378706684	""	""	NA
+"autotyp.wals$HASIND"	326	326	5	"WALS"	0.121666374996448	""	"+Generic-noun-based indefinites"	0.0783450958975054	""	""	0.0358374429447246	"-Generic-noun-based indefinites"	"+Generic-noun-based indefinites"	NA
+"autotyp.wals$BAKADP2"	377	377	2	"WALS"	0.000227203624872077	"+no adpositions"	"-no adpositions"	0.000246296361473314	"+no adpositions"	"-no adpositions"	0.000940474181114955	"+no adpositions"	"-no adpositions"	NA
+"autotyp.wals$IGGNUM"	260	260	9	"WALS"	0.672534403149818	""	""	NA	NA	NA	NA	NA	NA	"Indo-European stock:Unable to parse BayesTraits results; Sino-Tibetan stock:Unable to parse BayesTraits results"
+"autotyp.wals$STOCIS"	319	319	3	"WALS"	0.280604738825989	""	""	0.397313329874961	""	""	0.546144211941637	""	""	NA
+"autotyp.wals$STOORD"	320	320	8	"WALS"	0.415743568058081	""	""	0.727865068413217	""	""	0.925696594427232	""	""	NA
+"autotyp.wals$GILCLF"	399	399	3	"WALS"	0.999999999999955	""	""	0.817511421338968	""	""	0.892378213502469	""	""	NA
+"autotyp.wals$DRYPOS"	794	794	4	"WALS"	3.5929683486476e-05	""	"-Possessive prefixes+Possessive suffixes"	0.000932327948537414	"+Possessive prefixes"	"-Possessive prefixes+Possessive suffixes"	0.00687028903462352	""	"-Possessive prefixes"	NA
+"autotyp.wals$HASCON"	301	301	3	"WALS"	0.0985366753931769	""	"-Nominal and verbal conjunction are primarily expressed by juxtaposition"	0.466420783416337	""	""	0.692787723785166	""	""	NA
+"autotyp.wals$DRYTAA"	1059	1059	5	"WALS"	0.395354241636561	""	""	0.488820595804281	""	""	0.0475716929661796	""	""	NA
+"autotyp.wals$AUWIMP"	547	547	5	"WALS"	0.976418656461859	""	""	0.423468135191338	""	""	0.644943054644117	""	""	NA
+"autotyp.wals$AUWPRH"	495	495	4	"WALS"	1	""	""	0.820189005041371	""	""	1	""	""	NA
+"autotyp.wals$AUWHOR"	375	375	4	"WALS"	0.712601370514014	""	""	0.0111724323596714	""	""	0.325980392156861	""	""	NA
+"autotyp.wals$DOBOPT"	319	319	2	"WALS"	1	""	""	1	""	""	1	""	""	NA
+"autotyp.wals$HAAEVD"	416	416	3	"WALS"	0.025882817998218	""	""	0.068614647828664	""	""	0.101738609022906	""	""	NA
+"autotyp.wals$HAAEVC"	416	416	6	"WALS"	0.446635698931774	""	""	0.734559699622335	""	""	0.147755417956654	""	""	NA
+"autotyp.wals$DRYSBV"	1341	1341	3	"WALS"	0.420532263055511	""	""	0.932328003497071	""	""	0.323264849268037	""	""	NA
+"autotyp.wals$DRYOBV"	1367	1367	3	"WALS"	0.0105820796117959	""	"+Object follows verb (VO)"	0.0105783227333942	""	"-Both orders with neither order dominant+Object follows verb (VO)"	0.0357010637635656	""	""	NA
+"autotyp.wals$DRYXOV"	448	448	6	"WALS"	0.00805600891772575	""	"+Verb-object-oblique (VOX)"	0.0737353490250746	""	""	0.127045795541739	""	""	NA
+"autotyp.wals$DRYADP"	1071	1071	5	"WALS"	0.214292540954834	""	""	0.357879384633892	""	""	0.638355066738064	""	""	NA
+"autotyp.wals$DRYGEN"	1102	1102	3	"WALS"	0.00012853642086158	"-Noun-genitive (NGen)"	"+Noun-genitive (NGen)"	0.00417691580303091	""	"+Noun-genitive (NGen)"	0.00138354699917846	"-Noun-genitive (NGen)"	"+Noun-genitive (NGen)"	NA
+"autotyp.wals$DRYADJ"	1212	1212	4	"WALS"	0.499079203631578	""	""	0.94919333541383	""	""	1	""	""	NA
+"autotyp.wals$DRYDEM"	1084	1084	6	"WALS"	0.00268303728105441	"+Demonstrative word precedes noun (DemN)"	"-Demonstrative word precedes noun (DemN)+Demonstrative word follows noun (NDem)"	0.16253655244863	""	""	0.0873224270452497	""	""	NA
+"autotyp.wals$DRYNUM"	999	999	4	"WALS"	0.681945126393427	""	""	0.935100365239753	""	""	0.501285207819517	""	""	NA
+"autotyp.wals$DRYREL"	705	705	7	"WALS"	0.148388051085326	""	""	0.627109485872618	""	""	0.163872575963151	""	"-Mixed types of relative clause with none dominant"	NA
+"autotyp.wals$DRYDEG"	436	436	3	"WALS"	0.945713146971511	""	""	0.48056431055758	""	""	0.832009691748545	""	""	NA
+"autotyp.wals$DRYPQP"	775	775	6	"WALS"	0.833833297282281	""	""	NA	NA	NA	NA	NA	NA	"Oceanic sbranch:Unable to parse BayesTraits results; Mongolic stock:Unable to parse BayesTraits results"
+"autotyp.wals$DRYCOQ"	802	802	3	"WALS"	0.0368400452714247	""	""	0.0592116374505594	""	""	0.0422455268764188	""	""	NA
+"autotyp.wals$DRYOSC"	609	609	5	"WALS"	0.20285696313894	""	""	0.868441900897684	""	""	0.733090667462191	""	""	NA
+"autotyp.wals$SIEALI0"	296	296	5	"WALS"	0.208106203592266	""	""	0.569727674919989	""	""	0.410720465396324	""	""	NA
+"autotyp.wals$DRYPRO"	674	674	6	"WALS"	0.0787243961051164	""	""	NA	NA	NA	NA	NA	NA	"Pama-Nyungan stock:Unable to parse BayesTraits results"
+"autotyp.wals$SIEAPV"	378	378	5	"WALS"	0.241671981237608	""	""	0.543882749198148	""	""	0.36655234210852	""	""	NA
+"autotyp.wals$SIEZER2"	379	379	2	"WALS"	0.436319633344698	""	""	0.441717537577809	""	""	0.385824408084295	""	""	NA
+"autotyp.wals$SIEVPA"	377	377	5	"WALS"	0.379444162624262	""	""	0.971069590951022	""	""	0.70033444816054	""	""	NA
+"autotyp.wals$HASDIT"	378	378	4	"WALS"	0.0874261243681796	""	""	0.0623401770547154	""	"+Indirect-object construction"	0.271252531628921	""	""	NA
+"autotyp.wals$SIEPAS"	372	372	2	"WALS"	0.0318807534292355	""	"-There is no passive construction+There is a passive construction"	0.0890530317759018	""	"+There is a passive construction"	0.0275041104531928	""	"+There is a passive construction"	NA
+"autotyp.wals$SONNON"	310	310	4	"WALS"	0.66155646411619	""	""	0.0288640859959281	""	""	0.887489299254001	""	""	NA
+"autotyp.wals$DRYNEG"	1009	1009	6	"WALS"	0.68606143422652	""	""	NA	NA	NA	NA	NA	NA	"Gur stock:Unable to parse BayesTraits results; Sino-Tibetan stock:Unable to parse BayesTraits results"
+"autotyp.wals$DRYPOQ"	840	840	7	"WALS"	0.583824612995371	""	""	0.729441480229512	""	""	0.926299877356602	""	""	NA
+"autotyp.wals$STAADJ"	386	386	3	"WALS"	0.754225329157963	""	""	0.812438286151946	""	""	0.776037156468838	""	""	NA
+"autotyp.wals$STALOC"	386	386	2	"WALS"	0.809494620300563	""	""	0.809494620300563	""	""	1	""	""	NA
+"autotyp.wals$STAZER"	386	386	2	"WALS"	0.151578352828672	""	""	0.151578352828672	""	""	0.223750932817924	""	""	NA
+"autotyp.wals$HASWAN"	283	283	5	"WALS"	0.0380994886240054	""	""	0.0329969668671588	""	""	0.191739130434784	""	""	NA
+"autotyp.wals$BROHAN"	614	614	2	"WALS"	0.584545639282481	""	""	0.579072609171008	""	""	0.24943835318437	""	""	NA
+"autotyp.wals$BROFIN"	590	590	2	"WALS"	0.00921512767369844	""	"-Identity: a single word denotes both 'hand' and 'finger' and/or 'fingers'"	0.00921512767369844	""	"-Identity: a single word denotes both 'hand' and 'finger' and/or 'fingers'"	0.00476803893071877	"+Identity: a single word denotes both 'hand' and 'finger' and/or 'fingers'"	"-Identity: a single word denotes both 'hand' and 'finger' and/or 'fingers'"	NA
+"autotyp.wals$CORNUM"	256	256	5	"WALS"	0.278098241014284	""	""	0.43644284958956	""	""	0.558752841980084	""	""	NA
+"autotyp.wals$MADGLO"	565	565	8	"WALS"	0.0229175865002909	""	"+Implosives only"	0.0723376373387558	""	"+Implosives only"	0.031867337866881	""	"+Implosives only"	NA
+"autotyp.wals$DRYNPL"	957	957	9	"WALS"	0.965137350933804	""	""	NA	NA	NA	NA	NA	NA	"Oceanic sbranch:Unable to parse BayesTraits results; Benue-Congo stock:Unable to parse BayesTraits results; Mayan stock:Unable to parse BayesTraits results; Na-Dene stock:Unable to parse BayesTraits results"
+"autotyp.wals$DRYCAS3"	583	583	3	"WALS"	0.375061838222316	""	""	0.293092414967428	""	""	0.270475563818836	""	""	NA
+"autotyp.wals$MADVOI"	565	565	4	"WALS"	3.21935464947783e-06	"-Voicing contrast in both plosives and fricatives+No voicing contrast"	"+Voicing contrast in both plosives and fricatives-No voicing contrast"	0.009885677979512	"+No voicing contrast"	"-No voicing contrast"	0.0128119865250351	""	"+Voicing contrast in both plosives and fricatives-No voicing contrast"	NA
+"autotyp.wals$MADUVU2"	565	565	2	"WALS"	0.81764692595679	""	""	0.81764692595679	""	""	1	""	""	NA
+"autotyp.wals$MADLAT"	565	565	5	"WALS"	0.000172373454038592	"-/l/, no obstruent laterals+1.No laterals"	"+/l/, no obstruent laterals-1.No laterals"	0.0226892207929046	"+1.No laterals"	"-1.No laterals"	0.00405336198732829	"+1.No laterals"	"-1.No laterals"	NA
+"autotyp.wals$ANDANG2"	467	467	2	"WALS"	0.00268887325739695	"-ŋ present+ŋ absent"	"+ŋ present-ŋ absent"	0.00202668081000032	"-ŋ present+ŋ absent"	"+ŋ present-ŋ absent"	0.00376938537579816	"-ŋ present"	"+ŋ present-ŋ absent"	NA
+"autotyp.wals$MADFRV2"	560	560	2	"WALS"	0.747156871256458	""	""	1	""	""	1	""	""	NA
+"autotyp.wals$MADTON02"	525	525	2	"WALS"	0.000789765549916969	"+atonal-tonal"	"-atonal+tonal"	0.000674641663072762	"+atonal-tonal"	"-atonal+tonal"	0.00293195544786112	"+atonal-tonal"	"-atonal+tonal"	NA
+"autotyp.wals$GOEFIX2"	499	499	2	"WALS"	0.503793997696437	""	""	0.733717618847438	""	""	1	""	""	NA
+"autotyp.wals$GOERHY2"	322	322	2	"WALS"	0.240084145243215	""	""	0.0599211253107075	""	"+no rhythmic stress"	0.274006960363343	""	""	NA
+"autotyp.wals$RUBRED"	366	366	3	"WALS"	0.800464592195919	""	""	0.626629358677993	""	""	0.494391337427489	""	""	NA
+"autotyp.wals$CORASS02"	256	256	2	"WALS"	0.11782660228663	""	""	0.11782660228663	""	""	0.298723521803969	""	""	NA
+"autotyp.wals$HASNPL21"	290	290	2	"WALS"	0.0866070754485219	"+no plural"	"-no plural"	0.0866070754485219	"+no plural"	"-no plural"	0.223445815005075	""	""	NA
+"autotyp.wals$HASNPL22"	290	290	2	"WALS"	0.00493419991859633	"-plural obligatory, at least in animates+plural absent or optional"	"+plural obligatory, at least in animates-plural absent or optional"	0.00493419991859633	"-plural obligatory, at least in animates+plural absent or optional"	"+plural obligatory, at least in animates-plural absent or optional"	0.0188930268702417	"+plural absent or optional"	"-plural absent or optional"	NA
+"autotyp.wals$DANPLU02"	259	259	2	"WALS"	0.544509329155391	""	""	NA	NA	NA	NA	NA	NA	"NA/NaN argument"
+"autotyp.wals$DANPLU04"	250	250	3	"WALS"	0.278822286509749	""	""	0.278822286509749	""	""	0.324725141349653	""	""	NA
+"autotyp.wals$DANPLU05"	250	250	3	"WALS"	0.779348239135107	""	""	0.755560283825286	""	""	1	""	""	NA
+"autotyp.wals$SIEGEN"	377	377	6	"WALS"	0.0331930748730484	""	""	0.0214238699931093	""	""	0.675058971756099	""	""	NA
+"autotyp.wals$BAKADP"	377	377	4	"WALS"	0.0161893525914525	"+No adpositions"	"-No adpositions"	0.0137695633178226	"+No adpositions"	"-No adpositions"	0.433188668823488	""	""	NA
+"autotyp.wals$BAKADP02"	314	314	3	"WALS"	0.607881732042315	""	""	0.0475180654274271	"+adpositions with person marking for pronouns and nouns"	""	0.709805767091659	""	""	NA
+"autotyp.wals$GILCLF22"	399	399	2	"WALS"	1	""	""	1	""	""	0.706280912519676	""	""	NA
+"autotyp.wals$DRYPOS2"	794	794	2	"WALS"	0.117005730808688	""	""	0.115144881291712	""	""	0.403780609589842	""	""	NA
+"autotyp.wals$AUWPRH22"	495	495	2	"WALS"	1	""	""	1	""	""	1	""	""	NA
+"autotyp.wals$VP"	1276	1276	2	"WALS"	0.0101049772025216	""	"-OV+VO"	0.00769481165494516	""	"-OV+VO"	0.033461805769164	""	"+VO"	NA
+"autotyp.wals$PP"	985	985	2	"WALS"	0.0445920031248016	""	"+Pnp"	0.0494740099981622	""	"+Pnp"	0.126439346980456	""	""	NA
+"autotyp.wals$NADJ"	1107	1107	2	"WALS"	0.596691306314379	""	""	0.570113854673521	""	""	0.835697824975011	""	""	NA
+"autotyp.wals$DRYPQP02"	467	467	4	"WALS"	0.661784663737188	""	""	0.702479334626846	""	""	0.598557069244008	""	""	NA
+"autotyp.wals$SIEVPA02"	296	296	4	"WALS"	0.203187866798587	""	""	0.583794347907167	""	""	0.404108470497995	""	""	NA
+"autotyp.wals$SIEZER"	379	379	6	"WALS"	0.51653116371375	""	""	0.897907357309533	""	""	0.897435897435897	""	""	NA
+"autotyp.wals$SIEAPV2"	378	378	2	"WALS"	0.0819802214353515	"-without"	""	0.272969966629588	""	""	0.274304783092325	""	""	NA
+"autotyp.wals$HASWAN02"	269	269	3	"WALS"	0.0255666753128578	""	"-desiderative strategy"	0.00720359261312035	""	"+implicit subject-desiderative strategy"	0.0361423702410259	""	""	NA
+"autotyp.wals$HASWAN03"	269	269	2	"WALS"	0.00105876946736521	"+some desiderative"	"-some desiderative"	0.000581529231230618	"+some desiderative"	"-some desiderative"	0.00552719650020616	"+some desiderative"	"-some desiderative"	NA
+"autotyp.wals$IGGNUM2"	260	260	8	"WALS"	0.789544795194241	""	""	NA	NA	NA	NA	NA	NA	"Indo-European stock:Unable to parse BayesTraits results; Sino-Tibetan stock:Unable to parse BayesTraits results"
+"autotyp.wals$DRYCAS2"	595	595	2	"WALS"	0.473226624512715	""	""	1	""	""	0.571793937561718	""	""	NA
+"autotyp.wals$DRYCAS"	933	933	9	"WALS"	0.737651064952336	""	""	NA	NA	NA	NA	NA	NA	"Oceanic sbranch:Unable to parse BayesTraits results; Nilotic stock:Unable to parse BayesTraits results"
+"autotyp.wals$DRYCAST"	595	595	2	"WALS"	0.269461077844311	""	"+tonal"	NA	NA	NA	NA	NA	NA	"'x' must be an array of at least two dimensions"
+"autotyp.wals$DRYCASB"	595	595	2	"WALS"	0.108948132522534	""	"+pf"	0.092338748064837	""	"+pf"	0.251158863066695	""	""	NA
+"autotyp.wals$DRYDEF"	566	566	5	"WALS"	0.845342819843245	""	""	0.554937082542322	""	""	0.463800904977373	""	""	NA
+"autotyp.wals$DRYDEF3"	566	566	2	"WALS"	0.431559637919705	""	""	0.776898254020647	""	""	1	""	""	NA
+"autotyp.wals$DRYPRO2"	644	644	2	"WALS"	0.0345268396711797	""	"+oblig. S-pron."	0.117688401038264	""	""	0.0876987562506464	""	"+oblig. S-pron."	NA
+"autotyp.wals$DRYSOV1"	1226	1226	3	"WALS"	0.0372002963072923	""	""	0.00941027059873395	""	"-mixed"	0.021710034761325	""	"-mixed"	NA
+"autotyp.wals$DRYSOV2"	1226	1226	3	"WALS"	0.00831571735961072	""	"-mixed+medial"	0.0151069284662813	""	"-mixed+medial"	0.00635817066061155	""	"-mixed+medial"	NA
+"autotyp.wals$DRYSOV3"	1226	1226	2	"WALS"	0.00196489825963019	"-other"	"-final_or_free+other"	0.00147960020770337	"-other"	"-final_or_free+other"	0.0509043910098483	""	"+other"	NA
+"autotyp.wals$DRYSOV4"	1054	1054	2	"WALS"	0.019264274129722	""	"+non_final"	0.00908993231187013	""	"-final+non_final"	0.0160815000114081	""	"-final+non_final"	NA
+"autotyp.wals$SIEALI"	379	379	6	"WALS"	0.674582710337702	""	""	0.942578021277192	""	""	1	""	""	NA
+"autotyp.wals$SIEVPA2"	377	377	2	"WALS"	0.0819802214353515	""	""	0.0819802214353515	"-without"	""	0.274304783092325	""	""	NA
+"autotyp.wals$DRYPRO3"	583	583	2	"WALS"	0.0432076472959577	""	"+OBLIGATORY"	0.0487726549178888	""	"+OBLIGATORY"	0.0422774815029037	""	"+OBLIGATORY"	NA
+"autotyp.wals$SIEVPA3"	371	371	2	"WALS"	0.247017221041437	""	""	0.428569336204976	""	""	0.68065111535831	""	""	NA
+"autotyp.wals$SIEVPA4"	371	371	2	"WALS"	0.296280676368994	""	""	0.153478395227494	""	""	0.339067828723001	""	""	NA
+"autotyp.wals$AUWIMP2"	547	547	2	"WALS"	0.651356185378859	""	""	0.492693978367182	""	""	0.570066676762463	""	""	NA
+"autotyp.wals$AUWPRH21"	495	495	2	"WALS"	0.143261357179078	""	""	0.220649351875197	""	""	0.181430781960816	""	""	NA
+"autotyp.wals$BAKADP01"	314	314	2	"WALS"	1	""	""	1	""	""	1	""	""	NA
+"autotyp.wals$CORSEX01"	256	256	2	"WALS"	0.11782660228663	""	""	0.11782660228663	""	""	0.203542561472891	""	""	NA
+"autotyp.wals$DANPLU01"	250	250	6	"WALS"	0.732410437494831	""	""	0.591957152325033	""	""	0.953861927546126	""	""	NA
+"autotyp.wals$DRYADP0"	992	992	3	"WALS"	0.0425005882343884	""	""	0.0664730023812245	""	"+prepositions"	0.183213484475213	""	""	NA
+"autotyp.wals$DRYCAS0"	933	933	2	"WALS"	0.223150205374776	""	""	0.228205970313058	""	""	0.48484429783886	""	""	NA
+"autotyp.wals$DRYCOQ0"	782	782	2	"WALS"	0.036108538395538	""	"-question particle obligatorily initial"	0.0319866113996549	""	"-question particle obligatorily initial"	0.034743827084267	""	"-question particle obligatorily initial"	NA
+"autotyp.wals$DRYDEF1"	566	566	2	"WALS"	0.284628044210328	""	""	0.277213178000197	""	""	0.277213178000197	""	""	NA
+"autotyp.wals$DRYDEG0"	381	381	2	"WALS"	1	""	""	1	""	""	1	""	""	NA
+"autotyp.wals$DRYDEM0"	1011	1011	2	"WALS"	0.000356852339358696	"+DemN (word or prefix)-NDem (word or prefix)"	"-DemN (word or prefix)+NDem (word or prefix)"	0.000557322044343619	"-NDem (word or prefix)"	"-DemN (word or prefix)+NDem (word or prefix)"	0.00165981516035204	"-NDem (word or prefix)"	"-DemN (word or prefix)+NDem (word or prefix)"	NA
+"autotyp.wals$DRYGEN0"	1020	1020	2	"WALS"	0.000234455305915402	"-Nnp"	"-npN+Nnp"	0.00022209519020921	"-Nnp"	"-npN+Nnp"	0.000138191081527984	"-Nnp"	"-npN+Nnp"	NA
+"autotyp.wals$DRYIND2"	473	473	2	"WALS"	1	""	""	1	""	""	1	""	""	NA
+"autotyp.wals$DRYNEG2"	1009	1009	2	"WALS"	0.28557390599422	""	""	0.0708573986050538	""	""	0.66577480889462	""	""	NA
+"autotyp.wals$DRYNUM0"	944	944	2	"WALS"	0.59589931942937	""	""	0.851385110431387	""	""	0.848729312994586	""	""	NA
+"autotyp.wals$DRYOSC0"	523	523	3	"WALS"	0.129845877606642	""	""	0.0623821166770636	""	""	0.346486174628938	""	""	NA
+"autotyp.wals$DRYPOQ2"	840	840	2	"WALS"	NA	NA	NA	NA	NA	NA	NA	NA	NA	"'x' must be an array of at least two dimensions"
+"autotyp.wals$DRYPOS0"	591	591	3	"WALS"	2.0560138940098e-06	"+possessive prefixes-possessive suffixes"	"-possessive prefixes+possessive suffixes-both possessive prefixes and suffixes"	2.17744968106938e-06	"+possessive prefixes-possessive suffixes"	"-possessive prefixes+possessive suffixes"	1.39860142670659e-05	"+possessive prefixes-possessive suffixes"	"-possessive prefixes+possessive suffixes"	NA
+"autotyp.wals$DRYPQP01"	467	467	5	"WALS"	0.662639302534039	""	""	0.4877489681833	""	""	1	""	""	NA
+"autotyp.wals$DRYPRE0"	770	770	3	"WALS"	0.155876033770405	""	""	0.234105730834525	""	""	0.440293151110953	""	""	NA
+"autotyp.wals$DRYPRO0"	644	644	5	"WALS"	0.0788538926731373	""	""	0.143519276612704	""	""	0.0650382276259245	""	""	NA
+"autotyp.wals$DRYREL0"	650	650	3	"WALS"	0.384710680670932	""	""	0.49482740732863	""	""	0.637805793681836	""	""	NA
+"autotyp.wals$DRYSBV0"	1236	1236	2	"WALS"	0.28202698137579	""	""	0.327671957407527	""	""	0.300818514852522	""	""	NA
+"autotyp.wals$DRYSOV0"	1054	1054	6	"WALS"	0.136143905886075	""	"+SVO"	0.0584732181253621	""	"+SVO"	0.0731380759273017	""	"+SVO"	NA
+"autotyp.wals$DRYTAA2"	1059	1059	2	"WALS"	0.375578834009777	""	""	0.529013089244102	""	""	0.704681213541786	""	""	NA
+"autotyp.wals$DRYXOV0"	296	296	5	"WALS"	0.182913984308949	""	""	0.466040495912934	""	""	0.517086117373691	""	""	NA
+"autotyp.wals$GILCLF21"	399	399	2	"WALS"	0.816648507971781	""	""	1	""	""	0.785343789803821	""	""	NA
+"autotyp.wals$GOEFIX0"	280	280	2	"WALS"	0.776542810960372	""	""	0.776542810960372	""	""	0.721053632255655	""	""	NA
+"autotyp.wals$HAAEVD2"	416	416	2	"WALS"	0.063142627443459	""	"-some evidentials"	0.0337983127087845	""	"-some evidentials+no evidentials"	0.0268407891080856	""	"-some evidentials+no evidentials"	NA
+"autotyp.wals$HASDIT0"	339	339	3	"WALS"	0.01920202198664	"+secondary object"	"-secondary object"	0.0116519568617508	"+secondary object"	"-secondary object"	0.0424227003034374	"+secondary object"	"-secondary object"	NA
+"autotyp.wals$HASNPL0"	262	262	5	"WALS"	0.0224250415409567	""	"+Plural in all nouns, always obligatory"	0.382151029748287	""	""	0.185095090667844	""	""	NA
+"autotyp.wals$IGGNUM0"	260	260	2	"WALS"	0.659540911565582	""	""	0.659540911565582	""	""	0.659540911565582	""	""	NA
+"autotyp.wals$MADGLO0"	565	565	2	"WALS"	0.167730205971144	""	""	0.167730205971144	""	""	0.257040210437284	""	""	NA
+"autotyp.wals$MADLAT0"	470	470	4	"WALS"	0.067322520452271	""	""	0.794964194467005	""	""	0.382245355372292	""	""	NA
+"autotyp.wals$MADVOI0"	385	385	3	"WALS"	0.232295790212036	""	""	0.341517513718647	""	""	0.332195556357163	""	""	NA
+"autotyp.wals$RUBRED0"	311	311	2	"WALS"	1	""	""	1	""	""	1	""	""	NA
+"autotyp.wals$SIEVPA01"	377	377	2	"WALS"	0.441906815667496	""	""	0.409256223361598	""	""	0.408433304713714	""	""	NA
+"autotyp.wals$SIEZER0"	284	284	2	"WALS"	1	""	""	1	""	""	0.655658754729962	""	""	NA
+"autotyp.wals$SONNON2"	310	310	2	"WALS"	0.316409388089978	""	""	0.316409388089978	""	""	0.620414673046252	""	""	NA
+"autotyp.wals$STAADJ0"	283	283	2	"WALS"	0.666736597143083	""	""	0.823412563316675	""	""	0.815740249403039	""	""	NA
+"autotyp.wals$STOORD0"	272	272	5	"WALS"	0.904084788500998	""	""	0.8733464677737	""	""	1	""	""	NA
+"autotyp.wals$DRYSOVW"	1226	1226	7	"WALS"	0.0778072124496726	""	"+SVO"	NA	NA	NA	NA	NA	NA	"Oceanic sbranch:Unable to parse BayesTraits results; Nilotic stock:Unable to parse BayesTraits results"
+"autotyp.wals$DRYNPL2"	957	957	2	"WALS"	0.606290589655407	""	""	0.602425531031048	""	""	0.777281330897943	""	""	NA
+"autotyp.wals$MADCONC"	561	561	5	"WALS"	0.267522837766336	""	""	0.900317074230127	""	""	1	""	""	NA
+"autotyp.wals$MADVOWC"	562	562	3	"WALS"	0.0227898037397377	""	"+Large vowel inventory (7-14)"	0.0674099641754721	""	"+Large vowel inventory (7-14)"	0.126331157637847	""	"+Large vowel inventory (7-14)"	NA
+"autotyp.wals$MADCVRC"	562	562	5	"WALS"	0.50898907464503	""	""	0.991557080904739	""	""	0.999999999999999	""	""	NA
+"autotyp.wals$IGGNUMC"	260	260	9	"WALS"	0.672534403149818	""	""	NA	NA	NA	NA	NA	NA	"Indo-European stock:Unable to parse BayesTraits results; Sino-Tibetan stock:Unable to parse BayesTraits results"
+"autotyp.wals$CORNUMC"	256	256	5	"WALS"	0.253813386539749	""	""	0.764222582546153	""	""	0.558752841980084	""	""	NA
+"autotyp.wals$IGGNUM2C"	260	260	8	"WALS"	0.789544795194241	""	""	NA	NA	NA	NA	NA	NA	"Indo-European stock:Unable to parse BayesTraits results; Sino-Tibetan stock:Unable to parse BayesTraits results"
+"autotyp.synpatterns$some.case.for.A.vs.P"	649	649	2	"AUTOTYP"	0.4338610782248	""	""	0.600536846313222	""	""	0.77532275579494	""	""	NA

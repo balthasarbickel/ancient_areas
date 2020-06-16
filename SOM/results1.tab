@@ -1,0 +1,181 @@
+"variable"	"raw.sample.size"	"n.languages"	"n.levels"	"source"	"set.fisher.p"	"set.CP.significant.residuals"	"set.Other.significant.residuals"	"mcmc.fisher.p"	"mcmc.CP.significant.residuals"	"mcmc.Other.significant.residuals"	"ml.fisher.p"	"ml.CP.significant.residuals"	"ml.Other.significant.residuals"	"problems"
+"autotyp.agreement$POLYAGR.STRICT"	331	331	2	"AUTOTYP"	0.00035620542054271	"-without+POLYAGR"	"+without-POLYAGR"	0.00039829027662859	"+POLYAGR"	"+without-POLYAGR"	0.00184283195124126	"-without+POLYAGR"	"+without-POLYAGR"	NA
+"autotyp.agreement$case.agr.balance"	341	341	3	"AUTOTYP"	0.108449302704146	""	""	0.208182103690336	""	""	0.341572118510003	""	""	NA
+"autotyp.agreement$POLYAGR.LOOSE"	335	335	2	"AUTOTYP"	0.182441168397787	""	""	0.173363303254359	""	""	0.173363303254359	""	""	NA
+"autotyp.alienability$boundn"	262	262	2	"AUTOTYP"	0.120376803206455	""	""	0.0630504786275996	""	"-bound_nouns"	0.0972034273106622	""	"-bound_nouns"	NA
+"autotyp.alienability$POSS.CLASS"	262	262	4	"AUTOTYP"	0.013940106318524	""	"-1"	0.0417638095772427	""	""	0.250900639045324	""	""	NA
+"autotyp.alienability$multpossclass"	274	274	2	"AUTOTYP"	0.145718535540972	""	""	0.145718535540972	""	""	0.558483937774281	""	""	NA
+"autotyp.alienability$No._alienable_classes"	251	251	5	"AUTOTYP"	0.0598973112168227	""	""	0.0794151214101017	""	""	0.527939466981212	""	""	NA
+"autotyp.alienability$No.INAL.CLASS"	255	255	8	"AUTOTYP"	0.0143264712321515	""	""	0.0801439477102973	""	""	0.373848854447745	""	""	NA
+"autotyp.alienability$POSS.CLASS.AGGR"	274	274	2	"AUTOTYP"	0.0468550064308853	""	"-poss_classes+no_poss_classes"	0.0698487099894998	"+poss_classes-no_poss_classes"	"-poss_classes+no_poss_classes"	0.112130784838596	""	""	NA
+"autotyp.alienability$posscl_all"	282	282	2	"AUTOTYP"	0.0749409830585506	""	""	0.0431603792920617	""	"-any_poss_class+no_poss_class"	0.196087749689565	""	""	NA
+"autotyp.alienability$INAL.CLASS"	255	255	2	"AUTOTYP"	0.0187668027254474	""	"+has_no_inalienable_class"	0.0187668027254474	""	"+has_no_inalienable_class"	0.184111502245515	""	""	NA
+"autotyp.alienability$Covert_classes_BoundCat"	262	262	2	"AUTOTYP"	0.062073115926703	""	"-some"	0.062073115926703	""	"-some"	0.0972034273106622	""	"-some"	NA
+"autotyp.alienability$No.ALIEN.CLASS.BINNED"	251	251	2	"AUTOTYP"	0.0187668027254474	""	"+none"	0.0187668027254474	""	"+none"	0.0937257194923122	""	"+none"	NA
+"autotyp.alienability$No.INAL.CLASS.BINNED"	255	255	2	"AUTOTYP"	0.0187668027254474	""	"+none"	0.0395336849047268	""	"+none"	0.0985437090672416	""	""	NA
+"autotyp.alienability$Overt_Classes_numberCat"	273	273	2	"AUTOTYP"	0.211010839467819	""	""	0.211010839467819	""	""	0.378083491461101	""	""	NA
+"autotyp.alignment.per.language$case.dominant.alignment2"	641	641	6	"AUTOTYP"	0.318870238245717	""	""	0.244686268887996	""	""	0.22995286228906	""	""	NA
+"autotyp.alignment.per.language$case.dominant.alignment.obj"	344	344	5	"AUTOTYP"	0.187928289518253	""	""	0.523473645751208	""	""	0.607843137254902	""	""	NA
+"autotyp.alignment.per.language$case.wals.alignmentP"	379	379	3	"WALS"	0.1219595112417	""	""	0.0389909303164649	""	"-erg"	0.0389909303164649	""	"-erg"	NA
+"autotyp.alignment.per.language$case.wals.alignmentN"	310	310	3	"WALS"	0.100558602730723	""	""	0.0264933276166001	""	""	0.113965908603573	""	""	NA
+"autotyp.alignment.per.language$agr.syn.ergativity.degree"	315	315	3	"AUTOTYP"	0.621167142006889	""	""	1	""	""	1	""	""	NA
+"autotyp.alignment.per.language$agr.syn.accusativity.degree"	315	315	3	"AUTOTYP"	0.0573570592714099	"+0"	"-0"	0.147464977188825	""	""	0.226413860738803	""	""	NA
+"autotyp.alignment.per.language$agr.syn.dominant.alignment2"	315	315	5	"AUTOTYP"	0.0756731499759385	""	""	0.213318267552441	""	""	0.134633313123016	""	""	NA
+"autotyp.alignment.per.language$case.erg.degree.Cat"	641	641	3	"AUTOTYP"	0.577981616199738	""	""	0.325591279806132	""	""	0.24834946971515	""	""	NA
+"autotyp.alignment.per.language$agr.syn.erg.degree.Cat"	315	315	3	"AUTOTYP"	0.621167142006889	""	""	1	""	""	1	""	""	NA
+"autotyp.alignment.per.language$case.acc.degree.Cat"	641	641	3	"AUTOTYP"	0.135784949208326	""	""	0.233462205475465	""	""	0.253910478423057	""	""	NA
+"autotyp.alignment.per.language$agr.syn.acc.degree.Cat"	315	315	3	"AUTOTYP"	0.0573570592714099	""	"-low"	0.147464977188825	""	""	0.226413860738803	""	""	NA
+"autotyp.alignment.per.language$split_PoS_CASE"	641	641	2	"AUTOTYP"	0.0804965144351867	""	"+TRUE"	0.0749671289871295	""	""	0.219719201859069	""	""	NA
+"autotyp.alignment.per.language$split_PredClass_CASE"	641	641	2	"AUTOTYP"	0.740952266790721	""	""	1	""	""	1	""	""	NA
+"autotyp.alignment.per.language$split_TAM_CASE"	641	641	2	"AUTOTYP"	NA	NA	NA	NA	NA	NA	NA	NA	NA	"'x' must be an array of at least two dimensions"
+"autotyp.alignment.per.language$split_ranking_CASE"	641	641	2	"AUTOTYP"	NA	NA	NA	NA	NA	NA	NA	NA	NA	"'x' must be an array of at least two dimensions"
+"autotyp.alignment.per.language$split_PoS_AGR"	641	641	2	"AUTOTYP"	0.0827674242444252	""	"+TRUE"	0.0679764096174077	""	"+TRUE"	0.219719201859069	""	""	NA
+"autotyp.alignment.per.language$split_PredClass_AGR"	641	641	2	"AUTOTYP"	0.741931148640704	""	""	1	""	""	1	""	""	NA
+"autotyp.alignment.per.language$split_ranking_AGR"	641	641	2	"AUTOTYP"	NA	NA	NA	NA	NA	NA	NA	NA	NA	"'x' must be an array of at least two dimensions"
+"autotyp.alignment.per.language$split_TAM_AGR"	641	641	2	"AUTOTYP"	NA	NA	NA	NA	NA	NA	NA	NA	NA	"'x' must be an array of at least two dimensions"
+"autotyp.alignment.per.language$split_cat_CASE"	678	678	2	"AUTOTYP"	0.311764705882353	""	"+TRUE"	NA	NA	NA	NA	NA	NA	"'x' must be an array of at least two dimensions"
+"autotyp.alignment_for_agreement$Alignment2"	336	315	4	"AUTOTYP"	0.0935880301705191	""	""	0.321468622413939	""	""	0.0617391304347817	"+S=Atr=P"	""	NA
+"autotyp.alignment_for_agreement$A.marked"	327	315	2	"AUTOTYP"	0.357945518838257	""	""	0.343605659395133	""	""	0.372173744920681	""	""	NA
+"autotyp.alignment_for_agreement$O.marked"	335	315	2	"AUTOTYP"	0.2906595089552	""	""	0.2906595089552	""	""	0.265638148667601	""	""	NA
+"autotyp.alignment_for_agreement$G.marked"	334	315	3	"AUTOTYP"	1	""	""	1	""	""	0.80607627666451	""	""	NA
+"autotyp.alignment_for_agreement$T.marked"	334	315	3	"AUTOTYP"	1	""	""	1	""	""	0.796380090497735	""	""	NA
+"autotyp.alignment_for_case$Alignment2"	1099	641	5	"AUTOTYP"	0.596457673089697	""	""	0.621936915365617	""	""	0.999999999999992	""	""	NA
+"autotyp.alignment_for_case$Alignment.obj"	667	344	5	"AUTOTYP"	0.776120608426436	""	""	NA	NA	NA	NA	NA	NA	"missing values and NaN's not allowed if 'na.rm' is FALSE"
+"autotyp.alignment_for_case$A.marked"	777	641	2	"AUTOTYP"	0.516593262254939	""	""	0.516593262254939	""	""	0.355074674322669	""	""	NA
+"autotyp.alignment_for_case$O.marked"	928	641	2	"AUTOTYP"	1	""	""	1	""	""	1	""	""	NA
+"autotyp.alignment_for_case$G.marked"	786	641	3	"AUTOTYP"	0.99999999999999	""	""	1	""	""	0.428571428571428	""	""	NA
+"autotyp.alignment_for_case$T.marked"	774	641	3	"AUTOTYP"	0.999999999999997	""	""	1	""	""	1	""	""	NA
+"autotyp.alignments.case.simple$ACC"	716	641	2	"AUTOTYP"	0.124314334289001	""	"-FALSE"	0.124314334289001	""	""	0.187519490377571	""	""	NA
+"autotyp.alignments.case.simple$PoS.split"	655	641	2	"AUTOTYP"	0.664454906060564	""	""	0.664454906060564	""	""	0.301650643932523	""	""	NA
+"autotyp.alignments.case.splits$A.marked.split"	655	641	2	"AUTOTYP"	0.664454906060564	""	""	0.664454906060564	""	""	0.301650643932523	""	""	NA
+"autotyp.alignments.case.splits$O.marked.split"	649	641	2	"AUTOTYP"	0.0794285506964098	""	"+split"	0.079193971299469	""	"+split"	0.0689033170084677	""	"+split"	NA
+"autotyp.alignments.case.splits.stacked$case.split_on_PoS"	1304	641	4	"AUTOTYP"	0.999999999999998	""	""	1	""	""	0.999999999999994	""	""	NA
+"autotyp.basic.mr.locus.per.language$BasicLocus.S"	287	287	5	"AUTOTYP"	0.255810240134934	""	""	0.0557395235433836	""	""	0.0557395235433836	""	""	NA
+"autotyp.basic.mr.locus.per.language$SimpleLocus.S"	287	287	5	"AUTOTYP"	0.0854758546742626	""	""	0.285601792058031	""	""	0.285601792058031	""	""	NA
+"autotyp.basic.mr.locus.per.language$BasicLocus.P"	290	290	6	"AUTOTYP"	0.0195063232846902	""	"-H"	0.102276603824592	""	""	0.102276603824592	""	""	NA
+"autotyp.basic.mr.locus.per.language$SimpleLocus.P"	290	290	5	"AUTOTYP"	0.0156624858031764	""	"-H"	0.0235690494799282	""	""	0.259359556573176	""	""	NA
+"autotyp.basic.mr.locus.per.language$BasicLocus.A"	291	291	5	"AUTOTYP"	0.302607075967695	""	""	0.0931414809571164	""	""	0.0542142824915873	""	""	NA
+"autotyp.basic.mr.locus.per.language$SimpleLocus.A"	291	291	5	"AUTOTYP"	0.135405000902289	""	""	0.0342509319702991	""	"+FloatingorClitic"	0.285601792058031	""	""	NA
+"autotyp.basic.mr.locus.per.language$BasicLocus.POSS"	278	278	6	"AUTOTYP"	0.000563053829204782	"+H"	"-H"	0.0129117296683185	""	""	0.297387928966873	""	""	NA
+"autotyp.basic.mr.locus.per.language$SimpleLocus.POSS"	282	282	5	"AUTOTYP"	0.00166557548939223	""	"+D-H"	0.00493377370713004	""	"+D-H"	0.177018353398325	""	""	NA
+"autotyp.basic.sr.locus.per.language$BasicLocus.S"	287	287	5	"AUTOTYP"	0.255810240134934	""	""	0.0557395235433836	""	""	0.0557395235433836	""	""	NA
+"autotyp.basic.sr.locus.per.language$SimpleLocus.S"	287	287	5	"AUTOTYP"	0.0854758546742626	""	""	0.209572975411529	""	""	0.26541111246993	""	""	NA
+"autotyp.basic.sr.locus.per.language$BasicLocus.U"	286	286	6	"AUTOTYP"	0.0395777712050035	""	""	0.111600031152297	""	""	0.102276603824592	""	""	NA
+"autotyp.basic.sr.locus.per.language$SimpleLocus.U"	286	286	5	"AUTOTYP"	0.0153029876217546	""	"-H"	0.0438097346926225	""	""	0.259359556573176	""	""	NA
+"autotyp.basic.sr.locus.per.language$BasicLocus.A"	289	289	5	"AUTOTYP"	0.245903388038671	""	""	0.0542142824915873	""	""	0.0864719374695047	""	""	NA
+"autotyp.basic.sr.locus.per.language$SimpleLocus.A"	289	289	5	"AUTOTYP"	0.135405000902289	""	""	0.0463917417492544	""	""	0.285601792058031	""	""	NA
+"autotyp.basic.sr.locus.per.language$BasicLocus.POSS"	278	278	6	"AUTOTYP"	0.00131977279424273	""	"-H"	0.0490961886642195	""	""	0.334588029324862	""	""	NA
+"autotyp.basic.sr.locus.per.language$SimpleLocus.POSS"	282	282	5	"AUTOTYP"	0.00166557548939223	""	"+D-H"	0.0392381034702001	""	""	0.177018353398325	""	""	NA
+"autotyp.clause_word_order$aov_noun_primary_cwo_prim"	451	451	4	"AUTOTYP"	0.163932537421253	""	""	0.216583533269149	""	""	0.221977576484056	""	""	NA
+"autotyp.clause_word_order$aov_noun_primary_ov"	394	394	2	"AUTOTYP"	0.680591250121208	""	""	0.645980129549682	""	""	0.482273994192894	""	""	NA
+"autotyp.clause_word_order$aov_noun_primary_av"	394	394	2	"AUTOTYP"	0.439931051492387	""	""	0.602510145132683	""	""	0.566763393506162	""	""	NA
+"autotyp.clause_word_order$aov_noun_primary_finalfree"	451	451	2	"AUTOTYP"	0.423723865534662	""	""	0.526244099028387	""	""	0.333499091909788	""	""	NA
+"autotyp.clause_word_order$aov_noun_primary_medial"	451	451	2	"AUTOTYP"	0.169990117381192	""	""	0.149555636303099	""	""	0.149603891416216	""	""	NA
+"autotyp.clause_word_order$aov_noun_primary_initial"	451	451	2	"AUTOTYP"	1	""	""	1	""	""	1	""	""	NA
+"autotyp.clause_word_order$aov_noun_primary_final"	396	396	2	"AUTOTYP"	0.837836868963386	""	""	0.649015289445947	""	""	0.625933769187864	""	""	NA
+"autotyp.clause_word_order$aov_noun_primary_ao"	379	379	2	"AUTOTYP"	0.436715516211815	""	""	0.437057107772633	""	""	0.436715516211815	""	""	NA
+"autotyp.clause_word_order$finalfree"	451	451	3	"AUTOTYP"	0.586361585716667	""	""	0.685016676347176	""	""	0.462702657453668	""	""	NA
+"autotyp.clause_word_order$flexible"	451	451	3	"AUTOTYP"	0.0977694290265933	""	""	0.447398773528001	""	""	0.155022817691669	""	""	NA
+"autotyp.clause_word_order$medial"	451	451	3	"AUTOTYP"	0.260542318653805	""	""	0.150057435867815	""	""	0.00486015223005284	""	"+mixed"	NA
+"autotyp.clause_word_order$initial"	451	451	3	"AUTOTYP"	0.805802471024976	""	""	0.80120015317307	""	""	0.999999999999996	""	""	NA
+"autotyp.excl_incl$ie_distinction"	428	428	2	"AUTOTYP"	0.117249485592316	""	""	0.117249485592316	""	""	0.311573346754744	""	""	NA
+"autotyp.excl_incl$ex_as_person"	389	389	2	"AUTOTYP"	0.357483183747491	""	""	0.357483183747491	""	""	0.339079218300947	""	""	NA
+"autotyp.excl_incl$min_aug_distinction"	386	386	2	"AUTOTYP"	0.544368238963332	""	""	0.545032495370852	""	""	0.386697172448059	""	""	NA
+"autotyp.excl_incl$ie_type"	428	428	4	"AUTOTYP"	0.339336114820835	""	""	0.637830511087352	""	""	0.946936041427495	""	""	NA
+"autotyp.gender$agr_gender_yesno_words"	310	310	2	"AUTOTYP"	0.159740417647579	""	""	0.159740417647579	""	""	0.0768479307298085	""	"+yes"	NA
+"autotyp.gramm_markers$StFlexivity"	644	592	4	"AUTOTYP"	0.352256035907047	""	""	0.999999999999967	""	""	0.235302564124387	""	""	NA
+"autotyp.gramm_markers$Pos_position_basic"	1012	654	5	"AUTOTYP"	0.985859278261115	""	""	0.858850819478326	""	""	0.999999999999955	""	""	NA
+"autotyp.gramm_markers$Pos_posit3"	1010	654	4	"AUTOTYP"	0.95183138853347	""	""	0.945833661476204	""	""	0.8840250528411	""	""	NA
+"autotyp.gramm_markers$Pos_PrExist"	1001	694	2	"AUTOTYP"	0.734627304260406	""	""	0.734627304260406	""	""	0.753613520041635	""	""	NA
+"autotyp.gramm_markers$Pos_PrExstStrict"	995	694	2	"AUTOTYP"	0.712494719290762	""	""	0.70229821286551	""	""	0.525952412560105	""	""	NA
+"autotyp.gramm_markers$Pos_SmExst"	704	654	2	"AUTOTYP"	1	""	""	1	""	""	1	""	""	NA
+"autotyp.gramm_markers$Pos_SmExstStrict"	692	654	2	"AUTOTYP"	1	""	""	1	""	""	1	""	""	NA
+"autotyp.gramm_markers$Pos_PoExst"	927	653	2	"AUTOTYP"	0.754083994044511	""	""	0.747711112023227	""	""	0.580099061937432	""	""	NA
+"autotyp.gramm_markers$Rest_RestrValue"	860	734	3	"AUTOTYP"	1	""	""	0.513740375140232	""	""	0.999999999999945	""	""	NA
+"autotyp.gramm_markers$MTy_MorphemeType"	772	692	4	"AUTOTYP"	0.94965312701452	""	""	0.782835104804885	""	""	0.586010287449892	""	""	NA
+"autotyp.gramm_markers$Sou_morph_source"	1135	701	7	"AUTOTYP"	0.802638268659304	""	""	0.966348594403489	""	""	0.965170278637764	""	""	NA
+"autotyp.gramm_markers$Loc_Locus"	1077	710	6	"AUTOTYP"	0.716203237834831	""	""	1	""	""	1	""	""	NA
+"autotyp.gramm_markers$Loc_BasicLocus"	1075	710	4	"AUTOTYP"	0.654402383062854	""	""	0.559440559440559	""	""	0.744020685197154	""	""	NA
+"autotyp.gramm_markers$Loc_SimpleLocus"	1075	710	3	"AUTOTYP"	0.364127346591316	""	""	1	""	""	0.999999999999993	""	""	NA
+"autotyp.gramm_markers$Loc_BasicLocus2"	1064	710	3	"AUTOTYP"	0.364127346591316	""	""	0.430944055944057	""	""	0.800904977375561	""	""	NA
+"autotyp.gramm_markers$Fus_isolbin"	822	672	2	"AUTOTYP"	0.773092380262432	""	""	0.773092380262432	""	""	1	""	""	NA
+"autotyp.gramm_markers$Fus_nonlinearbin"	748	672	2	"AUTOTYP"	0.728862204750226	""	""	0.728059979540508	""	""	0.516427471316309	""	""	NA
+"autotyp.gramm_markers$Fus_redupl_binary"	695	672	2	"AUTOTYP"	0.310774413401038	""	""	0.309911562674809	""	""	0.326983999760454	""	"-TRUE"	NA
+"autotyp.gramm_markers$Fus_fusion3"	887	669	6	"AUTOTYP"	0.958343300134003	""	""	0.984419410413731	""	""	0.96044147755442	""	""	NA
+"autotyp.gramm_markers$Fus_tonal"	680	669	2	"AUTOTYP"	0.474848877374784	""	""	0.474848877374784	""	""	0.294736842105263	""	"+tonal"	NA
+"autotyp.gramm_markers$FmtvFlexivity"	820	606	5	"AUTOTYP"	0.940685564911408	""	""	0.843791516674902	""	""	1	""	""	NA
+"autotyp.gramm_markers$Beh_BehaviorType"	588	417	9	"AUTOTYP"	0.994491968660098	""	""	NA	NA	NA	NA	NA	NA	"Austroasiatic stock:Unable to parse BayesTraits results; Chukchi-Kamchatkan stock:Unable to parse BayesTraits results; Indo-European stock:Unable to parse BayesTraits results; Pama-Nyungan stock:Unable to parse BayesTraits results; Sepik stock:Unable to parse BayesTraits results"
+"autotyp.gramm_markers$Beh_behavior2"	440	417	2	"AUTOTYP"	0.673153612455311	""	""	0.670800612589973	""	""	1	""	""	NA
+"autotyp.gramm_markers$case_number"	402	400	3	"AUTOTYP"	0.815395595070435	""	""	0.208083419599823	""	""	0.886861983620181	""	""	NA
+"autotyp.gramm_markers$exp_binary"	1132	744	2	"AUTOTYP"	1	""	""	1	""	""	1	""	""	NA
+"autotyp.gramm_markers$exp_sum"	1598	787	6	"AUTOTYP"	0.978619436736943	""	""	NA	NA	NA	NA	NA	NA	"Adamawa-Ubangi stock:Unable to parse BayesTraits results; Algic stock:Unable to parse BayesTraits results; Austroasiatic stock:Unable to parse BayesTraits results; Eastern WMP pseudo-group ssbranch:Unable to parse BayesTraits results; Western WMP pseudo-group ssbranch:Unable to parse BayesTraits results; Berber lsbranch:Unable to parse BayesTraits results; Border stock:Unable to parse BayesTraits results; Wari:Unable to parse BayesTraits results; Chukchi-Kamchatkan stock:Unable to parse BayesTraits results; Cushitic stock:Unable to parse BayesTraits results; Dravidian stock:Unable to parse BayesTraits results; Eastern Highlands stock:Unable to parse BayesTraits results; Binanderean mbranch:Unable to parse BayesTraits results; Indo-European stock:Unable to parse BayesTraits results; Iroquoian stock:Unable to parse BayesTraits results; Keresan stock:Unable to parse BayesTraits results; Koiarian stock:Unable to parse BayesTraits results; Macro-Ge stock:Unable to parse BayesTraits results; Mande stock:Unable to parse BayesTraits results; Maran stock:Unable to parse BayesTraits results; Mongolic stock:Unable to parse BayesTraits results; Muskogean stock:Unable to parse BayesTraits results; Nilotic stock:Unable to parse BayesTraits results; Omotic stock:Unable to parse BayesTraits results; Otomanguean stock:Unable to parse BayesTraits results; Pano-Tacanan stock:Unable to parse BayesTraits results; Klamath-Sahaptian mbranch:Unable to parse BayesTraits results; Semitic stock:Unable to parse BayesTraits results; Siouan stock:Unable to parse BayesTraits results; Surmic stock:Unable to parse BayesTraits results; Tangkic stock:Unable to parse BayesTraits results; Timor-Alor-Pantar stock:Unable to parse BayesTraits results; Central Tungusic mbranch:Unable to parse BayesTraits results; Uralic stock:Unable to parse BayesTraits results; Uto-Aztecan stock:Unable to parse BayesTraits results; Yagua:Unable to parse BayesTraits results; Yokuts-Utian stock:Unable to parse BayesTraits results"
+"autotyp.gramm_markers$flex2"	797	608	2	"AUTOTYP"	1	""	""	1	""	""	1	""	""	NA
+"autotyp.gramm_markers$mrestrict_bin"	858	734	2	"AUTOTYP"	1	""	""	1	""	""	0.76489198453625	""	""	NA
+"autotyp.gramm_markers$case_ref"	401	400	3	"AUTOTYP"	0.933735685143724	""	""	0.834816476634338	""	""	0.886670176161769	""	""	NA
+"autotyp.gramm_markers$lexflex2"	727	602	2	"AUTOTYP"	0.572449139672736	""	""	0.572449139672736	""	""	0.783506942395928	""	""	NA
+"autotyp.locus.per.language$LocAhm"	294	294	2	"AUTOTYP"	0.069244377690301	""	"+no hm"	0.069244377690301	""	"+no hm"	0.069244377690301	""	"+no hm"	NA
+"autotyp.locus.per.language$LocAdm"	294	294	2	"AUTOTYP"	0.301440661476059	""	""	0.29031690392277	""	""	0.351004058915442	""	""	NA
+"autotyp.locus.per.language$LocPhm"	294	294	2	"AUTOTYP"	0.0147649746329996	""	"+no hm-hm"	0.0104984040363375	""	"+no hm-hm"	0.00667452619516921	""	"+no hm-hm"	NA
+"autotyp.locus.per.language$LocPdm"	294	294	2	"AUTOTYP"	0.246409694383365	""	""	0.246409694383365	""	""	0.277113550568577	""	""	NA
+"autotyp.locus.per.language$LocShm"	294	294	2	"AUTOTYP"	0.069244377690301	""	"+no hm"	0.069244377690301	""	"+no hm"	0.069244377690301	""	"+no hm"	NA
+"autotyp.locus.per.language$LocSdm"	294	294	2	"AUTOTYP"	0.166333994144027	""	""	0.166333994144027	""	""	0.170093387306116	""	""	NA
+"autotyp.locus.per.language$LocPOSShm"	282	282	2	"AUTOTYP"	0.00594597553739111	"-no hm+hm"	"+no hm-hm"	0.00594597553739111	"+hm"	"+no hm-hm"	0.008369564594421	""	"+no hm-hm"	NA
+"autotyp.locus.per.language$LocPOSSdm"	282	282	2	"AUTOTYP"	0.00237611957102839	""	"+dm-no dm"	0.00237611957102839	""	"+dm-no dm"	0.0479772096801589	""	"+dm-no dm"	NA
+"autotyp.locus.per.language$LocAorPdm"	294	294	2	"AUTOTYP"	0.248742667402434	""	""	0.248742667402434	""	""	0.421533154943147	""	""	NA
+"autotyp.locus.per.language$LocAorPhm"	294	294	2	"AUTOTYP"	0.0265495578082581	""	"+no hm"	0.0265495578082581	""	"+no hm"	0.0265495578082581	""	"+no hm"	NA
+"autotyp.locus.per.language$LocARGdm"	294	294	2	"AUTOTYP"	0.248742667402434	""	""	0.248742667402434	""	""	0.421533154943147	""	""	NA
+"autotyp.locus.per.language$LOCUS.ARG"	294	294	2	"AUTOTYP"	0.0194450331024374	""	"+no hm"	0.0265495578082581	""	"+no hm"	0.0194450331024374	""	"+no hm"	NA
+"autotyp.locus.per.language$LocAandPdm"	294	294	2	"AUTOTYP"	0.143204903606761	""	""	0.143204903606761	""	""	0.242866619878411	""	""	NA
+"autotyp.locus.per.language$LocAandPhm"	294	294	2	"AUTOTYP"	0.127747873021488	""	""	0.127747873021488	""	""	0.10858956122114	""	""	NA
+"autotyp.locus.per.language$LocSandAdm"	294	294	2	"AUTOTYP"	0.242866619878411	""	""	0.158270963565771	""	""	0.116169194509213	""	""	NA
+"autotyp.locus.per.language$LocSandAhm"	294	294	2	"AUTOTYP"	0.0840686962235373	""	"+no hm"	0.0840686962235373	""	"+no hm"	0.0840686962235373	""	"+no hm"	NA
+"autotyp.markers.per.language$exp_sum.Noun.Plural"	261	261	5	"AUTOTYP"	0.3210400456523	""	""	0.331746714055567	""	""	0.331746714055567	""	""	NA
+"autotyp.markers.per.language$A.basic"	282	282	5	"AUTOTYP"	0.34333988876887	""	""	0.0183844925372254	""	""	0.0542142824915873	""	""	NA
+"autotyp.markers.per.language$POSS.basic"	271	271	6	"AUTOTYP"	0.00137514706982046	""	"-H"	0.00308089820384846	""	"+F"	0.297387928966873	""	""	NA
+"autotyp.markers.per.language$S.basic"	280	280	5	"AUTOTYP"	0.228819114550474	""	""	0.0642606287461285	""	""	0.0585611766991078	""	""	NA
+"autotyp.markers.per.language$U.basic"	279	279	6	"AUTOTYP"	0.0632702489055674	""	""	0.0700689431339587	""	""	0.0700689431339587	""	""	NA
+"autotyp.merge$case.acc_n_merged"	671	671	2	"AUTOTYP"	0.106477932788633	""	""	0.151470878196337	""	""	0.236906612318101	""	""	NA
+"autotyp.merge$AOdiff_n_merged"	709	709	2	"AUTOTYP"	0.663250133296834	""	""	1	""	""	1	""	""	NA
+"autotyp.merge$CASE.ALIGN.P"	668	668	2	"AUTOTYP"	0.0311257595313775	""	"+acc"	0.0145167687342977	""	"-non-acc+acc"	0.0872769217435257	""	""	NA
+"autotyp.merge$AOdiff_p_merged"	699	699	2	"AUTOTYP"	0.145611757391519	""	""	0.209128211886652	""	""	0.24431462056292	""	""	NA
+"autotyp.merge$CASE.ALIGN.N"	345	345	4	"AUTOTYP"	0.0152022665396383	""	""	0.0104419445130354	""	"-erg"	0.0101645966222233	""	"+split-erg"	NA
+"autotyp.merge$s_align_p_merged"	411	411	4	"AUTOTYP"	0.122424786517543	""	""	0.012041407539525	""	""	0.0557290853028445	""	"-erg"	NA
+"autotyp.merge$case_position_merged"	583	583	3	"AUTOTYP"	0.375061838222316	""	""	0.270475563818836	""	""	0.270475563818836	""	""	NA
+"autotyp.merge$case_pf_merged"	595	595	2	"AUTOTYP"	0.108948132522534	""	"+pf"	0.108948132522534	""	"+pf"	0.251158863066695	""	""	NA
+"autotyp.merge$case_tonal_merged"	595	595	2	"AUTOTYP"	0.267857142857143	""	"+tonal"	NA	NA	NA	NA	NA	NA	"'x' must be an array of at least two dimensions"
+"autotyp.merge$final_merged"	1230	1230	3	"AUTOTYP"	0.145319325450391	""	""	0.113831114728817	""	""	0.108367890274448	""	""	NA
+"autotyp.merge$AOorder_merged"	1370	1370	3	"AUTOTYP"	0.0749374630273546	""	"-mixed"	0.00361385347773862	""	"-mixed"	0.0479683184704646	""	"-mixed"	NA
+"autotyp.morphology.per.language$flexivity.in.arguments"	306	306	2	"AUTOTYP"	0.731486798985381	""	""	0.731486798985381	""	""	0.702699969663262	""	""	NA
+"autotyp.morphology.per.language$flexivity.in.predicate"	354	354	2	"AUTOTYP"	1	""	""	1	""	""	1	""	""	NA
+"autotyp.morphology.per.language$any.flexivity"	608	608	2	"AUTOTYP"	1	""	""	1	""	""	1	""	""	NA
+"autotyp.morphology.per.language$lex.flexivity.in.arguments"	394	394	2	"AUTOTYP"	0.0844146687267574	""	"-TRUE+FALSE"	0.0844146687267574	""	"-TRUE+FALSE"	0.191950464396285	""	""	NA
+"autotyp.morphology.per.language$lex.flexivity.in.predicate"	352	352	2	"AUTOTYP"	1	""	""	1	""	""	1	""	""	NA
+"autotyp.morphology.per.language$boundn"	257	257	2	"AUTOTYP"	0.184635437975456	""	""	0.184635437975456	""	""	0.320704058191008	""	""	NA
+"autotyp.morphology.per.language$POSS.CLASS"	257	257	4	"AUTOTYP"	0.048023326436808	""	"-1"	0.0649902821374074	""	""	0.269325412843141	""	""	NA
+"autotyp.morphology.per.language$multpossclass"	268	268	2	"AUTOTYP"	0.145338175750129	""	""	0.142855255186519	""	""	0.558840043947634	""	""	NA
+"autotyp.morphology.per.language$POSS.CLASS.AGGR"	268	268	2	"AUTOTYP"	0.0407561099115226	""	"+no_poss_classes-poss_classes"	0.0378872128952834	"-no_poss_classes+poss_classes"	"+no_poss_classes-poss_classes"	0.112130784838596	""	"+no_poss_classes"	NA
+"autotyp.morphology.per.language$posscl_all"	275	275	2	"AUTOTYP"	0.0420447967887147	""	"+no_poss_class-any_poss_class"	0.0420447967887147	""	"+no_poss_class-any_poss_class"	0.112130784838596	""	"+no_poss_class"	NA
+"autotyp.morphology.per.language$Covert_classes_BoundCat"	257	257	2	"AUTOTYP"	0.184635437975456	""	""	0.184635437975456	""	""	0.320704058191008	""	""	NA
+"autotyp.morphology.per.language$Overt_Classes_numberCat"	267	267	2	"AUTOTYP"	0.205575377900394	""	""	0.373248281332628	""	""	0.212848522146435	""	""	NA
+"autotyp.morphology.per.language$any.lex.flexivity"	568	568	2	"AUTOTYP"	0.117971798543708	""	""	0.117971798543708	""	"+FALSE"	0.285163190900305	""	""	NA
+"autotyp.morphology.per.language$polyexponence.in.arguments"	420	420	2	"AUTOTYP"	1	""	""	0.750795505738904	""	""	0.750795505738904	""	""	NA
+"autotyp.morphology.per.language$polyexponence.in.predicate"	410	410	2	"AUTOTYP"	0.677255514898499	""	""	0.677255514898499	""	""	0.667186350026883	""	""	NA
+"autotyp.morphology.per.language$any.polyexponence"	744	744	2	"AUTOTYP"	0.485545536000048	""	""	0.471472662731608	""	""	0.447507750897387	""	""	NA
+"autotyp.morphology.per.language$ANY.AGREEMENT"	349	349	2	"AUTOTYP"	0.0135975613159813	""	"+no verb agreement"	0.0135975613159813	""	"+no verb agreement"	0.0411175098560494	""	"+no verb agreement"	NA
+"autotyp.morphology.per.language$N.PLURAL"	258	258	2	"AUTOTYP"	0.02858547704496	""	"-lacks plural"	0.02858547704496	""	"-lacks plural"	0.02858547704496	""	"-lacks plural"	NA
+"autotyp.np.per.language$marking_Def_overt.marking"	484	484	2	"AUTOTYP"	0.0657395913955543	""	"+TRUE"	0.105009725563588	""	""	0.204464628639277	""	""	NA
+"autotyp.np.per.language$marking_Def_no.marking"	484	484	2	"AUTOTYP"	0.143337053025994	""	""	0.143337053025994	""	""	0.145846796553295	""	""	NA
+"autotyp.np.per.language$Govern_Def_mixed"	484	484	2	"AUTOTYP"	1	""	""	0.799855905383768	""	""	0.71114097184144	""	""	NA
+"autotyp.np.per.language$Govern_Def_construct.markers"	484	484	2	"AUTOTYP"	0.41887608400076	""	""	0.41887608400076	""	""	0.163071693763476	""	""	NA
+"autotyp.np.per.language$Govern_Def_government"	484	484	2	"AUTOTYP"	0.623212625545529	""	""	0.37175333605686	""	""	0.76093927145564	""	""	NA
+"autotyp.np.per.language$Adj_marking_Def_overt.marking"	484	484	2	"AUTOTYP"	0.0657395913955543	""	"+TRUE"	0.0657395913955543	""	"+TRUE"	0.107498306297541	""	""	NA
+"autotyp.np.per.language$Adj_marking_Def_no.marking"	484	484	2	"AUTOTYP"	0.155444699418739	""	""	0.226301067404592	""	""	0.143337053025994	""	""	NA
+"autotyp.np.per.language$Adj_Govern_Def_mixed"	484	484	2	"AUTOTYP"	0.799855905383768	""	""	0.799855905383768	""	""	0.71114097184144	""	""	NA
+"autotyp.np.per.language$Adj_Govern_Def_construct.markers"	484	484	2	"AUTOTYP"	0.416867298634443	""	""	0.503231258518811	""	""	0.0669815982532718	""	"+TRUE"	NA
+"autotyp.np.per.language$Adj_Govern_Def_government"	484	484	2	"AUTOTYP"	0.623212625545529	""	""	0.59352346659924	""	""	0.762138572769407	""	""	NA
+"autotyp.np_structure$PrPoS1_simplehost"	438	430	3	"AUTOTYP"	1	""	""	0.403914510686167	""	""	0.788958138040394	""	""	NA
+"autotyp.np_structure$PrPoS1_phrasal"	437	430	2	"AUTOTYP"	0.55249929696288	""	"-phrasal"	0.55249929696288	""	"-phrasal"	1	""	""	NA
+"autotyp.np_structure$PrPoS1_clausal.domain"	431	428	2	"AUTOTYP"	1	""	""	1	""	""	1	""	""	NA
+"autotyp.np_structure$PrPoS1_Macrocat_sem"	635	430	6	"AUTOTYP"	0.594935065120336	""	""	0.946877470355734	""	""	0.790305804035783	""	""	NA
+"autotyp.np_structure$Alien_classSemanticClass"	424	295	8	"AUTOTYP"	0.405263186384955	""	""	0.301418547314397	""	"+neutral"	0.835014213323443	""	""	NA
+"autotyp.np_structure$Alien_classMacrocat_sem_class"	322	295	2	"AUTOTYP"	0.0228543355224944	""	"-formal+neutral"	0.0365815577126483	""	"-formal+neutral"	0.0365815577126483	""	"-formal+neutral"	NA
